@@ -1,0 +1,3 @@
+[submodule "coronaVueJs"]
+	path = coronaVueJs
+	url = https://github.com/ArnaudC/coronaVueJs
